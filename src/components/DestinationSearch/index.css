@@ -1,0 +1,37 @@
+.bg {
+  display: flex;
+  padding: 30px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-left: 300px;
+  padding-right: 300px;
+}
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #000000;
+}
+.search {
+  display: flex;
+  background-color: #f1f5f9;
+  padding: 10px;
+  border-radius: 5px;
+}
+.input-search {
+  border: 0px;
+  background-color: #f1f5f9;
+}
+.icon {
+  height: 20px;
+  width: 20px;
+}
+.card-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}

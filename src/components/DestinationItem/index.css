@@ -1,0 +1,15 @@
+.card {
+  padding: 20px;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.image {
+  width: 150px;
+}
+.title {
+  display: flex;
+  flex-wrap: wrap;
+}
